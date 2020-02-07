@@ -1,0 +1,30 @@
+ 
+.btn{
+  margin: 15px;
+}
+.card-text{
+  font-size: 16px;
+  color: rgb(53, 48, 48);
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.img-responsive1 {
+        /* display: block;    */
+        align-content: center;
+         height: 1%; 
+        padding: 2rem;
+}
+
+.img-responsive2 {
+  /* display: block;    */
+  align-content: center;
+   height: 1%; 
+  padding: 2rem;
+}
+
+.img-responsive3 {
+  /* display: block;    */
+  align-content: center;
+   height: 1%; 
+  padding: 2rem;
+}
